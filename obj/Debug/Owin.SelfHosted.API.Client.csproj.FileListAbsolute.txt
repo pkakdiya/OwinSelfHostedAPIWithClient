@@ -1,0 +1,14 @@
+C:\Priyank\MyWork\Owin.SelfHosted.API.Client\bin\Debug\Owin.SelfHosted.API.Client.exe.config
+C:\Priyank\MyWork\Owin.SelfHosted.API.Client\bin\Debug\Owin.SelfHosted.API.Client.exe
+C:\Priyank\MyWork\Owin.SelfHosted.API.Client\bin\Debug\Owin.SelfHosted.API.Client.pdb
+C:\Priyank\MyWork\Owin.SelfHosted.API.Client\bin\Debug\Newtonsoft.Json.dll
+C:\Priyank\MyWork\Owin.SelfHosted.API.Client\bin\Debug\Owin.SelfHosted.API.Model.dll
+C:\Priyank\MyWork\Owin.SelfHosted.API.Client\bin\Debug\System.Net.Http.Formatting.dll
+C:\Priyank\MyWork\Owin.SelfHosted.API.Client\bin\Debug\Owin.SelfHosted.API.Model.pdb
+C:\Priyank\MyWork\Owin.SelfHosted.API.Client\bin\Debug\Newtonsoft.Json.xml
+C:\Priyank\MyWork\Owin.SelfHosted.API.Client\bin\Debug\System.Net.Http.Formatting.xml
+C:\Priyank\MyWork\Owin.SelfHosted.API.Client\obj\Debug\Owin.SelfHosted.API.Client.csprojAssemblyReference.cache
+C:\Priyank\MyWork\Owin.SelfHosted.API.Client\obj\Debug\Owin.SelfHosted.API.Client.csproj.CoreCompileInputs.cache
+C:\Priyank\MyWork\Owin.SelfHosted.API.Client\obj\Debug\Owin.SelfHosted.API.Client.csproj.CopyComplete
+C:\Priyank\MyWork\Owin.SelfHosted.API.Client\obj\Debug\Owin.SelfHosted.API.Client.exe
+C:\Priyank\MyWork\Owin.SelfHosted.API.Client\obj\Debug\Owin.SelfHosted.API.Client.pdb
